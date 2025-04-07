@@ -1,2 +1,2 @@
 # html_Portfolio
-This is a training for website hosting based on my personal profile.
+This is a training for website hosting. Course #29 of 384.
